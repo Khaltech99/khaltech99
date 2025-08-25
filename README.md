@@ -13,8 +13,8 @@ I specialize in **React, React Native, and modern frontend ecosystems**, and I e
 ---
 
 ## 🌟 Side Projects
-- 🧺 **Londri** → Designed and developed a **responsive web app** for an online laundry service, featuring service booking and order management.  
-- 🤖 **Telegram Bot** → Created a bot for **airtime, data, and utility purchases**, with wallet funding, transaction history, and automated notifications.  
+- 🧺 [Londri](https://londri.vercel.app/) → Designed and developed a **responsive web app** for an online laundry service, featuring service booking and order management.  
+- 🤖 [AzeezVtu Telegram Bot](https://t.me/muhdata_bot) → Created a bot for **airtime, data, and utility purchases**, with wallet funding, transaction history, and automated notifications.  
 
 ---
 
